@@ -1,0 +1,13 @@
+﻿  FileName.cpp
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(10,7): error C2065: сos1: необъявленный идентификатор
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(10,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(10,17): error C2065: cos2: необъявленный идентификатор
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(10,22): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(10,26): error C2065: cos6: необъявленный идентификатор
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(10,31): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(10,35): error C2065: cos7: необъявленный идентификатор
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(10,40): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(11,7): error C3688: недопустимый литеральный суффикс "cos"; не удалось найти литеральный оператор или шаблон литерального оператора "operator ""cos"
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(11,34): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(11,38): error C2065: cos4: необъявленный идентификатор
+C:\Users\Назар\source\repos\ConsoleCpp\ConsoleCpp\FileName.cpp(11,43): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
